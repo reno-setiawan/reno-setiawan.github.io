@@ -333,9 +333,9 @@ h3.my-profession {
   height: 400px;
   transition: all 0.7s ease;
 }
-.home .home-img img:hover {
+/* .home .home-img img:hover {
   transform: scale(1.1);
-}
+} */
 
 /* About */
 .about .about-content {
